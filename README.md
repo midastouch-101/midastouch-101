@@ -2,6 +2,8 @@
 This is a clothe shopping website for both English and 
 Nigerian native attire.
 The pictures are the products to shop.
+This website is built using html and css only.
+This is to practice what I have learnt in class
 
 <!--
 **midastouch-101/midastouch-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
